@@ -72,3 +72,4 @@ const url='https://www.espncricinfo.com/series/ipl-2020-21-1210595/chennai-super
         let bod=$(birthday[1]).text();
         console.log(`${playername},'playes for'${team} 'was born on'${bod}`);
     }
+    console.log("done ");
